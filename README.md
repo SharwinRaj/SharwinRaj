@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # 💫 About Me:
 👋 Hi, I'm Sharrr<br><br>I am a Computer Science student majoring in Computer Networks and Security at Universiti Teknologi Malaysia (UTM).<br><br>---<br><br>🎓 Education<br>- **Bachelor of Computer Science (Computer Networks and Security)**  <br>  Universiti Teknologi Malaysia  <br>- **Matrikulasi (Physical Science)**  <br>  Kolej Matrikulasi Negeri Sembilan  <br>  CGPA: 3.96<br><br>---<br><br>📘 Academic Interests<br>- Computer Networking<br>- Information Technology<br>- Computer Hardware<br>- System Design<br>- Emerging Technologies<br><br>---<br><br>🛠 Skills<br>- Computer Science<br>- Information Technology<br>- Computer Networking<br>- PC Hardware Assembly<br>- Problem Solving<br>- Teamwork<br>- Technical Documentation<br><br>---<br><br>📂 Coursework & Projects<br>This GitHub profile includes my academic work and e-portfolio for the course:<br><br>- **Technology and Information System (SECP1513)**<br>  - Industry Talks<br>  - PC Assembly Laboratory<br>  - Design Thinking (Low Fidelity Prototype)<br>
 
